@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&display=swap');
+
+.caption{
+    font-family: 'Lobster', cursive;
+    padding: 25px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+
+}
+
+.bb{
+    padding: 25px;
+    text-align: center;
+
+}
+
+.upper{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    
+}
+
+.Book{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
